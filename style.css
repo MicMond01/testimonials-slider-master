@@ -49,9 +49,9 @@ img{
 ######################################## */
 
 .text-side {
-    height: 70%;
+    height: 90%;
     position: absolute;
-    top: 100%;
+    top: 65%;
     background-image: url("images/pattern-quotes.svg"), url("images/pattern-curve.svg");
     background-repeat: no-repeat;
     background-position: top center, right bottom;
